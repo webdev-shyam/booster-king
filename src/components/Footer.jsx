@@ -81,7 +81,7 @@ https://www.facebook.com/mgkaungkhantlwin19?mibextid=ZbWKwL"
       </div>
       <div className="flex justify-end items-center">
 
-      <h4 className="text-gray-500">Designed & Developed by <span className="italic text-cyan-400">Htet Myo Win</span></h4>
+      <h4 className="text-gray-500">Designed & Developed by <span className="italic m-2 text-cyan-400">Htet Myo Win</span></h4>
       </div> 
     </footer>
   );
