@@ -16,7 +16,7 @@ const Header = () => {
       <div className="flex justify-between items-center max-w-7xl mx-auto">
         {/* Logo / Title */}
         <div className="retro-title text-2xl sm:text-3xl font-bold text-yellow-300 h-[70px] w-[70px]">
-          <img className="h-[60px] w-[60px] rounded-full " src="./public/assets/booster.jpg" alt="logo" />
+          <img className="h-[60px] w-[60px] rounded-full " src="/assets/booster.jpg" alt="logo" />
         </div>
 
         {/* Desktop Navigation */}
